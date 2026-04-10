@@ -1,0 +1,27 @@
+# Created by Octave 6.4.0, Fri Apr 10 19:51:32 2026 -03 <codigo@arte>
+# name: a
+# type: matrix
+# rows: 3
+# columns: 3
+ 2 5 8
+ 1 2 4
+ 9 0 3
+
+
+# name: b
+# type: string
+# elements: 1
+# length: 10
+Olá mundo
+
+
+# name: c
+# type: scalar
+20
+
+
+# name: d
+# type: scalar
+32
+
+
